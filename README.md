@@ -1,2 +1,3 @@
 # JavaSquares
-Demo App to build and prove Java development skills
+Demo App being developed to build and prove Java development skills
+This may also be used for a Girls in Tech style training course.
